@@ -1,0 +1,93 @@
+﻿// Place your settings in this file to overwrite the default settings
+{
+    // "editor.fontSize": 11.4,
+    // "editor.fontSize": 12.2,
+    "editor.fontSize": 13,
+    "editor.fontWeight": "100",
+    "editor.fontFamily": "'Fira Code Regular', 'Hasklig Regular', 'Monoid Loose Bold', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.trimAutoWhitespace": false,
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "indent",
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+    "editor.dragAndDrop": true,
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.minimap.enabled": true,
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.maxColumn": 100,//120,
+    "editor.minimap.scale": 1,
+    "editor.tabCompletion": "off",
+    "editor.autoIndent": "full",
+    "editor.suggestSelection": "first",
+    "editor.wordBasedSuggestions": false,
+    "editor.quickSuggestions": {
+        "comments": false, // <- no 24x7 IntelliSense in comments
+        "strings": true, // but in strings and the other parts of source files
+        "other": true
+    },
+    "editor.cursorWidth": 1,
+    "editor.smoothScrolling": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.mouseWheelScrollSensitivity": 3,
+    "editor.renderIndentGuides": false,
+    "explorer.openEditors.visible": 0,
+    // "terminal.integrated.shell.windowsx": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    // "update.channel": "none",
+    "update.mode": "none",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "update.enableWindowsBackgroundUpdates": false,
+    "jshint.enable": false,
+    "jshint.options": {
+        "esversion": 6
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/typings": true,
+        "**/*.map": true
+    },
+    "languageStylus.useSeparator": false,
+    "languageStylus.useBuiltinFunctions": true,
+    // "window.reopenFolders": "one",
+    "window.openFilesInNewWindow": "off",
+    "window.menuBarVisibility": "default",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 0,
+    "auto-close-tag.activationOnLanguage": [
+        "html",
+        "xml",
+        "svg",
+        "php"
+    ],
+    "workbench.editor.showIcons": true,
+	"workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBorder": "#ffffff00"
+    },
+    // "typescript.check.tscVersion": false,
+    "npm-intellisense.showBuildInLibs": true,
+    "extensions.autoUpdate": false,
+    "emmet.excludeLanguages": [
+        "markdown",
+        "stylus"
+    ],
+    // "workbench.panel.location": "bottom",
+    "javascript.showUnused": false,
+    "javascript.suggestionActions.enabled": false,
+    "javascript.nameSuggestions": false,
+    "typescript.showUnused": false,
+    "typescript.suggestionActions.enabled": false,
+    "typescript.autoImportSuggestions.enabled": false,
+    "nativescript.analytics.enabled": false,
+    "workbench.colorTheme": "Material Neutral - Classic",
+    "extensions.ignoreRecommendations": false,
+    "window.titleSeparator": " • "
+}
